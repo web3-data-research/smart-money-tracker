@@ -4,4 +4,5 @@
 
 我们能通过追踪聪明钱赚到钱吗？我对此保持怀疑态度，但至少这会是一场有趣的旅程。
 
-[001-一直普通土狗的生生死死](docs/001-meme/001-common-token-track.md)
+[001一直普通土狗的生生死死](docs/001-meme/001-common-token-track.md)
+[002一个5倍收益的打新策略](docs/002-catch_new_token/002-catch_new_token.md)
